@@ -1,0 +1,4 @@
+com\weikaiyu\security\distributed\order\controller\OrderController.class
+com\weikaiyu\security\distributed\order\config\WebSecurityConfig.class
+com\weikaiyu\security\distributed\order\config\ResouceServerConfig.class
+com\weikaiyu\security\distributed\order\OrderApplication.class

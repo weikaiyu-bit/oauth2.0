@@ -1,0 +1,6 @@
+2020-11-25 23:14:32,274 WARN [dump-ignore] ignore to save cache file. groupKey=distributed-security-order+DEFAULT_GROUP, md5=2607f34bfb7d4c708ef375bd00a46573, lastModifiedOld=1606317071113, lastModifiedNew=1606317272226
+
+2020-11-25 23:16:39,282 INFO [dump-all-ok] distributed-security-order+DEFAULT_GROUP, 1606317272226, length=21, md5=2607f34bfb7d4c708ef375bd00a46573
+
+2020-11-25 23:16:39,283 INFO [dump-all-ok] distributed-security-uaa+DEFAULT_GROUP, 1606317094322, length=21, md5=1291655d57236da2fbe2952533f3ead4
+

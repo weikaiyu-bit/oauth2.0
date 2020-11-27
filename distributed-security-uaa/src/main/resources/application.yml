@@ -1,0 +1,6 @@
+spring:
+  main:
+    # ClientDetailsService不允许被覆盖，需要声明
+    allow-bean-definition-overriding: true
+  application:
+    name: distributed-security-uaa

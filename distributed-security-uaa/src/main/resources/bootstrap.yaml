@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+        shared-dataids: distributed-security-uaa.yaml
+        refreshable-dataids: distributed-security-uaa.yaml

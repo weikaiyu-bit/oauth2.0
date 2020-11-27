@@ -1,0 +1,12 @@
+com\weikaiyu\security\distributed\uaa\dao\PermissionRepository.class
+com\weikaiyu\security\distributed\uaa\config\TokenConfig.class
+com\weikaiyu\security\distributed\uaa\pojo\user.class
+com\weikaiyu\security\distributed\uaa\pojo\permission.class
+com\weikaiyu\security\distributed\uaa\UaaApplication.class
+com\weikaiyu\security\distributed\uaa\config\WebSecurityConfig.class
+com\weikaiyu\security\distributed\uaa\service\TestUserDetailsService.class
+com\weikaiyu\security\distributed\uaa\config\AuthorizationServer.class
+com\weikaiyu\security\distributed\uaa\controller\textCntroller.class
+com\weikaiyu\security\distributed\uaa\controller\RegisterController.class
+com\weikaiyu\security\distributed\uaa\controller\loginController.class
+com\weikaiyu\security\distributed\uaa\dao\UserRepository.class

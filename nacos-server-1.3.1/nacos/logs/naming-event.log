@@ -1,0 +1,8 @@
+2020-11-27 21:45:59,943 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-27 21:45:59,956 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-27 21:45:59,957 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-27 21:45:59,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
