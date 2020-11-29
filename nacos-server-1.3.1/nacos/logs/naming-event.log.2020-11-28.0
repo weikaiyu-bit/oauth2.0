@@ -1,0 +1,532 @@
+2020-11-28 11:16:56,719 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 11:16:56,724 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 11:16:56,730 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 11:16:56,730 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 11:16:56,734 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 11:16:56,734 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 11:17:52,844 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 11:17:52,845 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 11:17:52,858 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 13:20:35,570 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:20:35,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 13:20:35,575 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 13:21:31,196 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:21:31,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 13:21:41,948 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:21:41,949 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 13:21:41,953 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 13:23:26,911 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:26,912 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 13:23:38,213 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:38,213 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 13:23:38,220 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 13:23:38,969 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:38,969 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 13:23:38,970 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:38,970 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 13:23:52,439 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:52,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 
+
+2020-11-28 13:23:55,931 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:55,931 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 13:23:55,931 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:23:55,931 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 13:24:10,343 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 13:24:10,343 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 13:24:10,359 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:06:43,720 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:06:43,727 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:06:43,735 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:06:43,735 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:06:43,735 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:06:43,736 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:08:07,150 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:08:07,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:08:07,150 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:08:07,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:08:19,788 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:08:19,788 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:08:19,789 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:08:19,789 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:08:55,987 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:08:55,987 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:08:55,998 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:08:55,998 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:08:55,999 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:08:55,999 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:10:44,545 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:10:44,553 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:12:04,612 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:12:04,613 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:12:04,613 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:12:04,614 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:12:15,997 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:12:15,997 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:12:15,998 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:12:15,998 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:15:16,177 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:15:16,178 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:15:16,180 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:15:16,180 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:15:26,719 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:15:26,719 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:15:26,720 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:15:26,720 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:15:26,724 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:15:26,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:16:36,055 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:9527@DEFAULT@DEFAULT_GROUP@@distributed-security-getway, region: unknown, msg: client timeout after 15000, last beat: 1606565776843
+
+2020-11-28 20:16:40,221 INFO service: DEFAULT_GROUP@@distributed-security-getway {POS} {IP-ENABLED} valid: 192.168.1.5:9527@DEFAULT, region: unknown, msg: client beat ok
+
+2020-11-28 20:16:40,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:16:40,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:17:26,040 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:17:26,040 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:17:26,041 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:17:26,041 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:17:37,574 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:17:37,574 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:17:37,575 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:17:37,575 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:17:37,575 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:17:37,575 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:20:01,817 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:01,817 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:20:01,818 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:01,818 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:20:10,306 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:10,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:20:10,307 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:10,307 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:20:12,495 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:12,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:20:12,495 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:12,496 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:20:12,500 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:20:12,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:20:26,183 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:26,184 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:20:26,184 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:26,184 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:20:37,859 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:20:37,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:20:37,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:23:27,891 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:9111@DEFAULT@DEFAULT_GROUP@@distributed-security-uaa, region: unknown, msg: client timeout after 15000, last beat: 1606566188240
+
+2020-11-28 20:23:29,602 INFO service: DEFAULT_GROUP@@distributed-security-uaa {POS} {IP-ENABLED} valid: 192.168.1.5:9111@DEFAULT, region: unknown, msg: client beat ok
+
+2020-11-28 20:23:29,609 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:23:49,926 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:23:49,926 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 
+
+2020-11-28 20:24:09,208 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:24:09,208 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:24:09,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:24:34,842 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:24:34,842 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:29:28,749 INFO DEFAULT_GROUP@@distributed-security-uaa {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:29:28,749 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-uaa, ips: 
+
+2020-11-28 20:29:33,971 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:8111@DEFAULT@DEFAULT_GROUP@@distributed-security-order, region: unknown, msg: client timeout after 15000, last beat: 1606566557685
+
+2020-11-28 20:29:33,971 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:8111@DEFAULT@DEFAULT_GROUP@@distributed-security-order, region: unknown, msg: client timeout after 15000, last beat: 1606566557685
+
+2020-11-28 20:29:34,155 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:29:34,155 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:29:34,161 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:29:45,116 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:29:45,116 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:29:45,121 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:29:46,198 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:9527@DEFAULT@DEFAULT_GROUP@@distributed-security-getway, region: unknown, msg: client timeout after 15000, last beat: 1606566570632
+
+2020-11-28 20:29:46,198 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:9527@DEFAULT@DEFAULT_GROUP@@distributed-security-getway, region: unknown, msg: client timeout after 15000, last beat: 1606566570632
+
+2020-11-28 20:29:46,249 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:29:46,249 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:29:46,255 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:29:49,187 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 20:29:49,187 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:29:49,188 INFO DEFAULT_GROUP@@distributed-security-order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 20:29:49,188 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:29:49,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:29:49,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-order, ips: 
+
+2020-11-28 20:30:01,217 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 20:30:01,217 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:30:01,217 INFO DEFAULT_GROUP@@distributed-security-getway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 20:30:01,217 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:30:01,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:30:01,219 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@distributed-security-getway, ips: 
+
+2020-11-28 20:30:58,574 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:38:18,496 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:38:18,497 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 20:39:24,349 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:8111@DEFAULT@DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, region: unknown, msg: client timeout after 15000, last beat: 1606567146143
+
+2020-11-28 20:39:26,345 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:9111@DEFAULT@DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, region: unknown, msg: client timeout after 15000, last beat: 1606567148012
+
+2020-11-28 20:39:39,364 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 20:39:39,364 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 
+
+2020-11-28 20:39:41,351 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 20:39:41,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, ips: 
+
+2020-11-28 20:57:14,866 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:57:14,871 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:57:14,878 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:57:14,878 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:57:14,878 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:57:14,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-ORDER, ips: 192.168.1.5:8111_true,
+
+2020-11-28 20:58:27,392 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:58:27,392 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:58:27,397 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 20:59:55,156 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9111:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 20:59:55,157 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, ips: 192.168.1.5:9111_true,
+
+2020-11-28 20:59:55,164 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, ips: 192.168.1.5:9111_true,
+
+2020-11-28 21:00:39,894 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-UAA, ips: 192.168.1.5:9111_true,
+
+2020-11-28 21:00:41,271 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:00:41,271 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:00:49,858 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:00:49,858 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:00:49,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:01:47,349 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:02:32,258 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:02:32,258 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:02:43,046 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:02:43,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:02:43,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:07:54,862 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:07:54,862 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:13:49,486 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:13:49,486 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:13:49,487 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:13:49,487 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:14:06,210 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:14:06,210 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:16:22,920 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:16:22,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:16:50,614 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:16:50,614 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:17:08,544 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:17:08,544 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:17:08,545 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:17:08,545 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:17:17,947 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:17:17,947 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:17:17,948 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:17:17,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:18:37,787 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:18:37,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:18:37,787 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:18:37,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:18:46,441 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:18:46,441 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:18:46,442 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:18:46,442 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:18:46,442 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:18:46,443 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:20:04,882 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:20:04,882 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:8080_true,
+
+2020-11-28 21:20:49,548 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:20:49,548 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:20:49,548 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:20:49,548 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:21:11,375 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:21:11,375 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:21:11,375 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:21:11,375 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:21:11,376 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:21:11,376 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:21:31,655 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:21:31,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:21:31,656 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:21:31,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:43:06,463 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:43:06,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:43:06,467 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:43:12,483 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:43:12,483 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:43:25,113 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:43:25,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:43:25,117 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:44:02,259 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:44:02,260 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:45:24,790 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:45:24,790 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:45:24,797 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:46:12,829 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:46:12,829 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 21:47:42,024 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 21:47:42,024 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 21:49:01,715 INFO {POS} {IP-DISABLED} valid: 192.168.1.5:9527@DEFAULT@DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, region: unknown, msg: client timeout after 15000, last beat: 1606571322244
+
+2020-11-28 21:49:17,013 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-11-28 21:49:17,013 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 22:02:02,643 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:02:02,644 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:02:02,645 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:02:02,645 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:02:09,897 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:02:09,898 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 22:02:09,899 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:02:09,899 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 22:02:18,762 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:02:18,762 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:02:18,763 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:02:18,763 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:02:57,790 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:02:57,790 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:03:49,681 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:03:49,681 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 192.168.1.5:9527_true,
+
+2020-11-28 22:05:16,179 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:05:16,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+
+2020-11-28 22:05:16,181 INFO DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.5:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-11-28 22:05:16,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@DISTRIBUTED-SECURITY-GETWAT, ips: 
+

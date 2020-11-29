@@ -1,0 +1,18 @@
+2020-11-28 11:16:43,735 INFO [dump-all-ok] distributed-security-order.yaml+DEFAULT_GROUP, 1606364734238, length=285, md5=36641dc12149b4acfa10b2735f80e1ae
+
+2020-11-28 11:16:43,736 INFO [dump-all-ok] distributed-security-uaa.yaml+DEFAULT_GROUP, 1606490282625, length=396, md5=0c70e14dc1e116ea83370c3f7bdc7a66
+
+2020-11-28 18:59:03,994 INFO [dump-all-ok] distributed-security-order.yaml+DEFAULT_GROUP, 1606364734238, length=285, md5=36641dc12149b4acfa10b2735f80e1ae
+
+2020-11-28 18:59:03,994 INFO [dump-all-ok] distributed-security-uaa.yaml+DEFAULT_GROUP, 1606540998240, length=434, md5=c42ad77e1da5750b9a7a39e9a5d1c8f4
+
+2020-11-28 18:59:03,995 INFO [dump-all-ok] distributed-security-getway.yaml+DEFAULT_GROUP, 1606540018916, length=607, md5=3029e747fb03a968d4ce08ef02bff6b8
+
+2020-11-28 20:47:58,370 INFO [dump-all-ok] distributed-security-order.yaml+DEFAULT_GROUP, 1606364734238, length=285, md5=36641dc12149b4acfa10b2735f80e1ae
+
+2020-11-28 20:47:58,440 INFO [dump-all-ok] distributed-security-uaa.yaml+DEFAULT_GROUP, 1606540998240, length=434, md5=c42ad77e1da5750b9a7a39e9a5d1c8f4
+
+2020-11-28 20:47:58,440 INFO [dump-all-ok] distributed-security-getway.yaml+DEFAULT_GROUP, 1606566823244, length=434, md5=87f73a5794e809ce7748ec01ab2fbbd2
+
+2020-11-28 21:25:40,951 WARN [dump-ignore] ignore to save cache file. groupKey=distributed-security-getway.yaml+DEFAULT_GROUP, md5=b809c626e3e91ad1850ee43ff4ae51a2, lastModifiedOld=1606569586970, lastModifiedNew=1606569940888
+

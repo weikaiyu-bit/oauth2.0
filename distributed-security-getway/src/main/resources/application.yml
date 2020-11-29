@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: DISTRIBUTED-SECURITY-GETWAT
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: DISTRIBUTED-SECURITY-ORDER
+          uri: lb://DISTRIBUTED-SECURITY-ORDER
+          predicates:
+            - Path=/order/**
+        - id: DISTRIBUTED-SECURITY-UAA
+          uri: lb://DISTRIBUTED-SECURITY-UAA
+          predicates:
+            - Path=/uaa/**
+#        - id: payment_route1
+#          uri: get://distributed-security-uaa.yaml
+#          predicates:
+#            - Path=/uaa/**

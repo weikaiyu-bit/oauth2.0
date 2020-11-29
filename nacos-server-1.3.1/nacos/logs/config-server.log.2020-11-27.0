@@ -1,0 +1,74 @@
+2020-11-27 21:37:31,760 INFO notifyConnectTimeout:200
+
+2020-11-27 21:37:31,795 INFO notifySocketTimeout:8000
+
+2020-11-27 21:37:31,796 INFO isHealthCheck:true
+
+2020-11-27 21:37:31,796 INFO maxHealthCheckFailCount:12
+
+2020-11-27 21:37:31,796 INFO maxContent:10485760
+
+2020-11-27 21:37:44,660 INFO use local db service for init
+
+2020-11-27 21:37:51,192 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2020-11-27 21:37:51,226 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2020-11-27 21:37:51,435 WARN Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:51,868 WARN Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:51,981 WARN Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,068 WARN Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,181 WARN Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,286 WARN Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,436 WARN Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,569 WARN Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,690 WARN Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,847 WARN Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,914 WARN Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:52,993 WARN Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:53,103 WARN Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:53,182 WARN Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:53,259 WARN Table/View 'PERMISSIONS' already exists in Schema 'NACOS'.
+
+2020-11-27 21:37:53,758 WARN The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL201125230258070' defined on 'USERS'.
+
+2020-11-27 21:37:53,799 WARN The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'UK_USERNAME_ROLE' defined on 'ROLES'.
+
+2020-11-27 21:37:53,800 INFO use StandaloneDatabaseOperateImpl
+
+2020-11-27 21:37:57,642 WARN DumpService start
+
+2020-11-27 21:37:57,646 INFO start clear all config-info.
+
+2020-11-27 21:37:57,661 WARN clear all config-info failed.
+
+2020-11-27 21:37:57,661 WARN clear all config-info-tenant failed.
+
+2020-11-27 21:37:58,189 INFO [all-dump] 305723470128373760 / 305723470128373760
+
+2020-11-27 21:37:58,189 INFO start clear all config-info-beta.
+
+2020-11-27 21:37:58,190 WARN clear all config-info-beta failed.
+
+2020-11-27 21:37:58,190 WARN clear all config-info-beta-tenant failed.
+
+2020-11-27 21:37:58,676 INFO start clear all config-info-tag.
+
+2020-11-27 21:37:58,677 WARN clear all config-info-tag failed.
+
+2020-11-27 21:37:58,677 WARN clear all config-info-tag-tenant failed.
+

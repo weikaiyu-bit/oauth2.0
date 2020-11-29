@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+        shared-dataids: DISTRIBUTED-SECURITY-GETWAT.yaml
+        refreshable-dataids: DISTRIBUTED-SECURITY-GETWAT.yaml

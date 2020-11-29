@@ -11,6 +11,8 @@
     <modules>
         <module>distributed-security-uaa</module>
       <module>distributed-security-order</module>
+        <module>distributed-security-getway</module>
+        <module>方法</module>
     </modules>
 
   <name>oauth2</name>

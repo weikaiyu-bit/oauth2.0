@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad98c5a6-2791-4645-935f-8197d8236d30" name="Default Changelist" comment="" />
+    <list default="true" id="ad98c5a6-2791-4645-935f-8197d8236d30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/distributed-security-getway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/gateway9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-security-getway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-security-getway/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/filter/TokenAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/pojo/sysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/方法/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/方法/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/方法/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020112609.md" beforeDir="false" afterPath="$PROJECT_DIR$/2020112609.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/target/classes/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/target/classes/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/target/classes/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/target/classes/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-order/target/classes/com/weikaiyu/security/distributed/order/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-order/target/classes/com/weikaiyu/security/distributed/order/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/com/weikaiyu/security/distributed/uaa/config/AuthorizationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/com/weikaiyu/security/distributed/uaa/config/AuthorizationServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/com/weikaiyu/security/distributed/uaa/controller/textCntroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/com/weikaiyu/security/distributed/uaa/controller/textCntroller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/bin/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/bin/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/bin/logs/access_log.2020-11-28.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/bin/logs/access_log.2020-11-28.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c400.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c400.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c490.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c490.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4a1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4b1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4c1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4c1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4d1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4d1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4e1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4e1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4f0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c4f0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c501.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c501.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c511.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c511.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c521.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c521.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c531.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c531.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c60.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c740.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c740.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c760.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c760.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/derby-data/seg0/c81.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/naming/meta.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/data/naming/meta.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-client-request.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-client-request.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-dump.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-dump.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-fatal.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-fatal.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-memory.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-memory.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-pull-check.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-pull-check.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-server.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-trace.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/config-trace.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/nacos-cluster.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/nacos-cluster.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/nacos.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/nacos.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-distro.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-distro.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-event.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-event.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-performance.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-performance.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-push.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-push.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-raft.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-raft.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-server.log" beforeDir="false" afterPath="$PROJECT_DIR$/nacos-server-1.3.1/nacos/logs/naming-server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/distributed-security-uaa/target/" />
     <ignored path="$PROJECT_DIR$/distributed-security-order/target/" />
+    <ignored path="$PROJECT_DIR$/distributed-security-getway/target/" />
+    <ignored path="$PROJECT_DIR$/方法/target/" />
+    <ignored path="$PROJECT_DIR$/distributed-security-mygetway/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,35 +85,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020112511.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-column="48" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/WebSecurityConfig.java">
+        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/filter/TokenAuthenticationFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="435">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
-                <element signature="e#1258#1259#0" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/TokenConfig.java">
+        <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/resources/bootstrap.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="18" selection-start-line="18" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="189">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/loginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/gateway9527.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-getway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/OrderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,75 +183,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2020112711.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/UaaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/TokenConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/AuthorizationServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="98" selection-end-column="5" />
+            <state relative-caret-position="189">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020112609.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
-                <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="62" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="29" selection-start-line="29" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,12 +207,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>netflix</find>
-      <find>alibaba</find>
-      <find>mysq</find>
-      <find>druid</find>
-      <find>AuthorizationServer</find>
-      <find>tokenService</find>
       <find>passwordEncoder</find>
       <find>tokenStore</find>
       <find>authenticationManager</find>
@@ -156,7 +220,27 @@
       <find>AuthorizationCodeServices</find>
       <find>authorizationCodeServices</find>
       <find>jwtAccessTokenConverter</find>
+      <find>myba</find>
+      <find>getway</find>
+      <find>context</find>
+      <find>nacos</find>
+      <find>my</find>
+      <find>commons</find>
+      <find>act</find>
+      <find>res1</find>
+      <find>devtools</find>
+      <find>starter</find>
+      <find>oauth</find>
+      <find>javaee</find>
+      <find>gateway</find>
+      <find>security</find>
+      <find>web</find>
+      <find>ReactiveAuthorizationManager</find>
+      <find>spring-boot-starter-web</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -167,26 +251,41 @@
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/UaaApplication.java" />
         <option value="$PROJECT_DIR$/distributed-security-order/src/main/resources/bootstrap.yaml" />
         <option value="$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/pom.xml" />
-        <option value="$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/11/26.md" />
-        <option value="$PROJECT_DIR$/distributed-security-uaa/pom.xml" />
-        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/dao/PermissionRepository.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/dao/UserRepository.java" />
-        <option value="$PROJECT_DIR$/distributed-security-order/pom.xml" />
-        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/2020112609.md" />
-        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/RegisterController.java" />
         <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/TokenConfig.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/WebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/bootstrap.yaml" />
-        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/TokenConfig.java" />
         <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/AuthorizationServer.java" />
         <option value="$PROJECT_DIR$/2020112711.md" />
+        <option value="$PROJECT_DIR$/distributed-security-mygetway/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/distributed-security-mygetway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distributed-security-order/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-mygetway/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/ZuulConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/gateway9527.java" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/TokenConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/ResouceServerConfig.java" />
+        <option value="$PROJECT_DIR$/distributed-security-getway/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/utile/UserDetails.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/pojo/sysUser.java" />
+        <option value="$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/filter/TokenAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java" />
+        <option value="$PROJECT_DIR$/2020112609.md" />
       </list>
     </option>
   </component>
@@ -207,12 +306,30 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="distributed-security-getway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="distributed-security-getway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="distributed-security-getway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="distributed-security-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="distributed-security-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="distributed-security-uaa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -231,11 +348,11 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="319" />
-    <option name="y" value="60" />
-    <option name="width" value="1942" />
-    <option name="height" value="972" />
+    <option name="x" value="962" />
+    <option name="width" value="959" />
+    <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -255,6 +372,82 @@
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="quest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="quest" type="462c0819:PsiDirectoryNode" />
+              <item name="getway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
               <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,144 +538,130 @@
               <item name="security" type="462c0819:PsiDirectoryNode" />
               <item name="distributed" type="462c0819:PsiDirectoryNode" />
               <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed" type="462c0819:PsiDirectoryNode" />
-              <item name="uaa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed" type="462c0819:PsiDirectoryNode" />
-              <item name="uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed" type="462c0819:PsiDirectoryNode" />
-              <item name="uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed" type="462c0819:PsiDirectoryNode" />
-              <item name="uaa" type="462c0819:PsiDirectoryNode" />
               <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
@@ -501,31 +680,373 @@
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
               <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
               <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -533,6 +1054,11 @@
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -541,21 +1067,82 @@
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="weikaiyu" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oauth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="资料" type="462c0819:PsiDirectoryNode" />
+              <item name="day02资料" type="462c0819:PsiDirectoryNode" />
+              <item name="代码" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed-security-uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="uaa" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -570,8 +1157,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606492721032" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606625059310" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../questionnaire/quest-service" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -582,17 +1169,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\project\oauth2\distributed-security-order\src\main\java\com\weikaiyu\security\distributed\order\config" />
-      <recent name="E:\project\oauth2\distributed-security-order\src\main\java\com\weikaiyu\security\distributed\order\controller" />
+      <recent name="E:\project\oauth2\distributed-security-getway\src\main\java\com\weikaiyu\quest\getway" />
+      <recent name="E:\project\oauth2\distributed-security-mygetway\src\main\java" />
       <recent name="E:\project\oauth2" />
-      <recent name="E:\project\oauth2\distributed-security-uaa\src\main\java\com\weikaiyu\security\distributed\uaa\controller" />
-      <recent name="E:\project\oauth2\distributed-security-uaa\src\main\java\com\weikaiyu\security\distributed\uaa" />
+      <recent name="E:\project\oauth2\方法\src\main\resources" />
+      <recent name="E:\project\oauth2\distributed-security-getway\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.weikaiyu.security.distributed.order.pojo" />
+      <recent name="com.weikaiyu.quest.getway.config" />
+      <recent name="com.weikaiyu.quest.getway" />
       <recent name="com.weikaiyu.security.distributed.order.config" />
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\oauth2\distributed-security-getway\src\main\java\com\weikaiyu\quest\getway" />
+      <recent name="E:\project\oauth2\distributed-security-order" />
+      <recent name="E:\project\oauth2\distributed-security-getway\src\main\resources" />
       <recent name="E:\project\oauth2" />
     </key>
   </component>
@@ -635,10 +1228,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gateway9527 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-mygetway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weikaiyu.quest.getway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.weikaiyu.quest.getway.gateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gateway9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-getway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weikaiyu.quest.getway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.weikaiyu.quest.getway.gateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.UaaApplication" />
         <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.gateway9527 (1)" />
+        <item itemvalue="Spring Boot.gateway9527" />
       </list>
     </recent_temporary>
   </component>
@@ -655,18 +1276,22 @@
       <workItem from="1606313435938" duration="5508000" />
       <workItem from="1606319136595" duration="1850000" />
       <workItem from="1606361422673" duration="11726000" />
-      <workItem from="1606483928062" duration="8310000" />
+      <workItem from="1606483928062" duration="8924000" />
+      <workItem from="1606533170645" duration="6181000" />
+      <workItem from="1606560831676" duration="4910000" />
+      <workItem from="1606567878697" duration="9634000" />
+      <workItem from="1606619287523" duration="1322000" />
+      <workItem from="1606621320683" duration="3601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27394000" />
+    <option name="totallyTimeSpent" value="53656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="319" y="60" width="1942" height="972" extended-state="0" />
-    <editor active="true" />
+    <frame x="1072" y="28" width="849" height="902" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.248394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18451613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -676,8 +1301,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.047146402" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997057" visible="true" weight="0.20719603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6019022" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4997057" visible="true" weight="0.5557065" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -685,7 +1310,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50029427" side_tool="true" weight="0.5471464" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.4255583" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.38800904" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -693,7 +1318,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.08511777" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.04903226" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="BPMNPalette" order="6" />
@@ -701,6 +1326,8 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="JSF" order="11" />
+      <window_info anchor="right" id="CDI" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -711,227 +1338,285 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java</url>
-          <line>33</line>
+          <line>34</line>
           <properties class="com.weikaiyu.security.distributed.uaa.service.TestUserDetailsService" method="loadUserByUsername">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/filter/TokenAuthenticationFilter.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java">
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/ZuulConfig.java" />
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/controller/orderController.java" />
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.4.RELEASE/spring-security-config-5.1.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="1246" selection-start-line="1246" selection-end-line="1246" />
+        <state relative-caret-position="147">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/JDK/src.zip!/java/lang/ClassLoader.java">
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/resources/bootstrap.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="423" selection-start-line="423" selection-end-line="423" />
+        <state relative-caret-position="189">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/resources/bootstrap.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="42">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/ResouceServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/TokenConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/ZuulConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-order/src/main/resources/application.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/ResourceServerConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-order/src/main/java/com/itheima/security/distributed/order/config/ResouceServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109" />
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/src.zip!/javax/sql/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        <state relative-caret-position="155">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/config/AuthorizationServer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/ResourceServerConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="110" column="38" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="38" />
+        <state relative-caret-position="21">
+          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/config/TokenConfig.java">
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/ResourceServerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="1302">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="65" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/UAAServer.java">
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/ClientDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/pojo/permission.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/service/SpringDataUserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/dao/PermissionRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/pojo/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/dao/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config.java" />
-    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-order/src/main/java/com/itheima/security/distributed/order/config/TokenConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/OrderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-order/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="630">
+          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="66" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/WebSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/ResouceServerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/config/TokenConfig.java" />
     <entry file="file://$PROJECT_DIR$/distributed-security-order/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        <state relative-caret-position="283">
+          <caret line="59" selection-start-line="59" selection-end-line="62" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java">
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/ZuulConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="22" />
+        <state relative-caret-position="231">
+          <caret line="13" selection-start-line="13" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/config/ResouceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/GatewayServer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/utile/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/pojo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/pojo/sysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weikaiyu/admin/App.java">
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-order/src/main/java/com/itheima/security/distributed/order/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="20" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/TokenConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="63">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/TokenConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/AuthorizationServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="88" column="26" lean-forward="true" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/service/SpringDataUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="41" column="61" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-gateway/src/main/java/com/itheima/security/distributed/gateway/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资料/day02资料/代码/distributed-security/distributed-security-order/src/main/java/com/itheima/security/distributed/order/filter/TokenAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020112511.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="42" selection-start-column="42" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020112609.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/textCntroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -945,10 +1630,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/controller/RegisterController.java">
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="130">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/java/com/weikaiyu/quest/getway/gateway9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/filter/TokenAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-getway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -958,126 +1696,12 @@
     <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/UaaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/resources/bootstrap.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/service/TestUserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/TokenConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020112511.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-order/src/main/java/com/weikaiyu/security/distributed/order/config/ResouceServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="29" selection-start-line="29" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#1258#1259#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/TokenConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="18" selection-start-line="18" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/com/weikaiyu/security/distributed/uaa/config/AuthorizationServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="98" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020112609.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="62" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020112711.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1134,11 +1758,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>distributed-security-order</last-edited>
+          <last-edited>distributed-security-mygetway</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4294622" />
                 <option value="0.6" />
               </list>
             </option>

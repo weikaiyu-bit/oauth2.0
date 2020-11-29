@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="distributed-security-order">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/distributed-security-mygetway/target/distributed-security-order.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

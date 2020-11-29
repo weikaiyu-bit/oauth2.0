@@ -1,5 +1,6 @@
 package com.weikaiyu.security.distributed.uaa.service;
 
+import com.alibaba.fastjson.JSON;
 import com.weikaiyu.security.distributed.uaa.dao.PermissionRepository;
 import com.weikaiyu.security.distributed.uaa.dao.UserRepository;
 import com.weikaiyu.security.distributed.uaa.pojo.permission;
@@ -33,16 +34,15 @@ public class TestUserDetailsService implements UserDetailsService {
     @Override
     public UserDetails loadUserByUsername(String s) throws UsernameNotFoundException {
         //这里不应该使用name，如果使用name查询，将会的到一个List集合，不符合逻辑，所以学校采用用户的唯一标识登录（学号）
-        user byName = userRepository.findByName(s);
-        List<user> all = userRepository.findAll();
+        user userDto = userRepository.findByName(s);
 
-        if(byName==null){//这里如果查不到数据，直接就返回null，因为spring security帮我们做了异常抛出
+        if(userDto==null){//这里如果查不到数据，直接就返回null，因为spring security帮我们做了异常抛出
             return null;
         }
 
 //      用户验证通过后 用户信息已经查询出来，得到用户的唯一（自增）id，将自增id拿去做in语句查询，得到用户的角色，拿到角色查出用户的权限
 //      拥有什么权限，就能访问什么资源
-        List<permission> permission = permissionRepository.findPermission(byName.getId());
+        List<permission> permission = permissionRepository.findPermission(userDto.getId());
         System.out.println("permission"+permission);
         List<String> list=new ArrayList<>();
         for(permission p:permission){
@@ -51,7 +51,8 @@ public class TestUserDetailsService implements UserDetailsService {
             String[] str=new String[list.size()];
         list.toArray(str);
         System.out.println("拥有访问资源"+str);
-        UserDetails build = User.withUsername(byName.getName()).password(byName.getPassword()).authorities(str).build();
+        String principal = JSON.toJSONString(userDto);
+        UserDetails build = User.withUsername(principal).password(userDto.getPassword()).authorities(str).build();
         return build;
     }
 }

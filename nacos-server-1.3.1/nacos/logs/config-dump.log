@@ -1,4 +1,12 @@
-2020-11-27 21:37:58,186 INFO [dump-all-ok] distributed-security-order.yaml+DEFAULT_GROUP, 1606364734238, length=285, md5=36641dc12149b4acfa10b2735f80e1ae
+2020-11-29 11:14:01,295 INFO [dump-all-ok] distributed-security-order.yaml+DEFAULT_GROUP, 1606364734238, length=285, md5=36641dc12149b4acfa10b2735f80e1ae
 
-2020-11-27 21:37:58,189 INFO [dump-all-ok] distributed-security-uaa.yaml+DEFAULT_GROUP, 1606365888701, length=340, md5=2bd6e9ac39037e0dae67e58281fb6957
+2020-11-29 11:14:01,296 INFO [dump-all-ok] distributed-security-uaa.yaml+DEFAULT_GROUP, 1606540998240, length=434, md5=c42ad77e1da5750b9a7a39e9a5d1c8f4
+
+2020-11-29 11:14:01,297 INFO [dump-all-ok] DISTRIBUTED-SECURITY-GETWAT.yaml+DEFAULT_GROUP, 1606571893249, length=24, md5=9ed8f435c0af7f18e1e883184866932d
+
+2020-11-29 12:13:31,662 INFO [dump-all-ok] distributed-security-order.yaml+DEFAULT_GROUP, 1606364734238, length=285, md5=36641dc12149b4acfa10b2735f80e1ae
+
+2020-11-29 12:13:31,663 INFO [dump-all-ok] distributed-security-uaa.yaml+DEFAULT_GROUP, 1606540998240, length=434, md5=c42ad77e1da5750b9a7a39e9a5d1c8f4
+
+2020-11-29 12:13:31,663 INFO [dump-all-ok] DISTRIBUTED-SECURITY-GETWAT.yaml+DEFAULT_GROUP, 1606571893249, length=24, md5=9ed8f435c0af7f18e1e883184866932d
 
