@@ -1988,3 +1988,39 @@
 
 2020-11-29 12:47:51,372 INFO [long-pulling] client count 3
 
+2020-11-29 12:48:01,243 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2020-11-29 12:48:01,250 INFO toNotifyTaskSize = 0
+
+2020-11-29 12:48:01,375 INFO [long-pulling] client count 3
+
+2020-11-29 12:48:11,244 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2020-11-29 12:48:11,251 INFO toNotifyTaskSize = 0
+
+2020-11-29 12:48:11,377 INFO [long-pulling] client count 3
+
+2020-11-29 12:48:21,244 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2020-11-29 12:48:21,251 INFO toNotifyTaskSize = 0
+
+2020-11-29 12:48:21,377 INFO [long-pulling] client count 3
+
+2020-11-29 12:48:31,245 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2020-11-29 12:48:31,252 INFO toNotifyTaskSize = 0
+
+2020-11-29 12:48:31,378 INFO [long-pulling] client count 3
+
+2020-11-29 12:48:41,245 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2020-11-29 12:48:41,252 INFO toNotifyTaskSize = 0
+
+2020-11-29 12:48:41,379 INFO [long-pulling] client count 3
+
+2020-11-29 12:48:51,246 INFO groupCount = 3, subscriberClientCount = 0, subscriberCount = 0
+
+2020-11-29 12:48:51,253 INFO toNotifyTaskSize = 0
+
+2020-11-29 12:48:51,380 INFO [long-pulling] client count 3
+
